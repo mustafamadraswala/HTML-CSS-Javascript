@@ -40,3 +40,4 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input
 www.github.com
 >> Settings
 >> Github pages
+>> Select branch and save
