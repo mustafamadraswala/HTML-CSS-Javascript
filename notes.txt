@@ -38,3 +38,5 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input
 
 10. Publish website using free hosting -
 www.github.com
+>> Settings
+>> Github pages
