@@ -41,3 +41,34 @@ www.github.com
 >> Settings
 >> Github pages
 >> Select branch and save
+
+
+===================================================================================================
+
+CSS - 
+Dev docs -
+https://devdocs.io/css/
+
+How to change bg-color -
+https://developer.mozilla.org/en-US/docs/Web/CSS/background-color
+
+Color names instead of Hex codes -
+https://developer.mozilla.org/en-US/docs/Web/CSS/color_value
+
+For color palettes Hex Code
+https://colorhunt.co/
+
+Broswers already applies deafult css values - 
+https://www.w3schools.com/CSSref/css_default_values.php
+
+Just to tinker around with borders -
+https://developer.mozilla.org/en-US/docs/Web/CSS/border-style
+
+Inline css in html tags itself -
+<body style="background-color: red;"> 
+
+Internal css in style tag below the title tag
+
+External css in a separate file - A single location
+
+ 
