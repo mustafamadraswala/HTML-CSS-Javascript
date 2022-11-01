@@ -1,0 +1,40 @@
+Link https://developer.mozilla.org/en-US/docs/Web/HTML/Element/em
+
+1. For italics - Use emphasis <em> tag instead of Italics <i> tag 
+2. For vold - Use Strong <strong> tag instead of Bold <b> tag
+3. To add a horizontal line - <hr>
+4. ul - Unordered list - Bullet points
+
+5. ol - Ordered list - Deafult --> 1,2,3 
+More - i,ii,iii or a,b,c
+```
+<ol type ="i"> (or 1,a)
+```
+Start at a particular number - 
+```
+<ol start ="5"> (or 1,a)
+```
+To create multiple list tags at once -
+```
+ul>li*3
+```
+
+6. Images - Self closing tag
+Crop image in circle - https://crop-circle.imageonline.co/
+```
+<img src = "mm.png" alt="Mustafa profile picture">
+```
+
+7. Links and anchor tag - <a href = ""> </a>
+
+8. Tables - To create multiple rows and cells
+```
+table>tr*3>td*3
+```
+Add thead, tbody and tfoot tags and then add tr th td tags
+
+9. Forms  and Inputs - 
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input
+
+10. Publish website using free hosting -
+www.github.com
